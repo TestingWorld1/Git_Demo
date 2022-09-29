@@ -22,6 +22,7 @@
 		obj.setName("Ojas");
 		
 		System.out.println(obj.getName());
+		System.out.println("My name is" + obj.getName());
 	}
 
 }
