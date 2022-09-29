@@ -7,6 +7,7 @@ public class Test_1 {
 
 	public void speed(int maxSpeed) {
 		    System.out.println("Max speed is: " + maxSpeed);
+		    System.out.println("This is the change I have done");
 		  }
 
 	
